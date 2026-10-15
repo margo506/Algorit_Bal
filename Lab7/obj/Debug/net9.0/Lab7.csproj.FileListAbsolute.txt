@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\bin\Debug\net9.0\Lab7.exe
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\bin\Debug\net9.0\Lab7.deps.json
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\bin\Debug\net9.0\Lab7.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\bin\Debug\net9.0\Lab7.dll
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\bin\Debug\net9.0\Lab7.pdb
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.dll
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\refint\Lab7.dll
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.pdb
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\Lab7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Algorit\Algorit_Bal\Lab7\obj\Debug\net9.0\ref\Lab7.dll
